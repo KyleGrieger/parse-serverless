@@ -1,5 +1,5 @@
 {
-  "name": "Parse Serverless",
+  "name": "parse-serverless",
   "version": "1.0.0",
   "description": "Parse server hold the server",
   "main": "index.js",
